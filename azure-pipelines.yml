@@ -10,7 +10,7 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
-  dockerRegistryServiceConnection: '329e144b-7df3-4086-8d20-fd31c6bc236e'
+  dockerRegistryServiceConnection: '88353402-9305-40df-b394-744686ea28f6'
   imageRepository: 'tottiopipelinesdotnetcoredocker'
   containerRegistry: 'dockercontainerapp20220616.azurecr.io'
   dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
